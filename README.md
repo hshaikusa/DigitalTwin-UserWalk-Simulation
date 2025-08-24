@@ -16,3 +16,40 @@ In my recent work, I’ve been exploring how Digital Twin representations of fol
 ### 🔹 Leverage legacy infrastructure alongside new technologies.
 Digital Twins bridge the gap between theoretical planning and real-world deployment, driving cost-effective, high-performance networks for the future.
 
+In my earlier presentations, I discussed the concept of Digital Twin representation of foliage using computer vision and image analysis. The focus has been on how Digital Twins can be built for key environmental elements such as foliage, buildings, and street furniture using aerial and street-view imagery.
+These Digital Twins serve as powerful tools for wireless network planners and operators. By integrating them into ray-tracing analyzers, planners can:
+	• Better understand the physical environment dynamics.
+	• Identify optimal node placement locations.
+	• Determine the number of nodes required to ensure strong connectivity and high user data rates.
+	• Estimate deployment costs more accurately and balance cost vs. performance before actual rollouts.
+
+Here is the link if you have missed it:
+Digital Twin Representation of Foliage (DTRF)
+https://youtu.be/H5VazsiDZNQ
+<img width="1342" height="646" alt="image" src="https://github.com/user-attachments/assets/489d03f9-865c-4c0f-b6b0-905735046cea" />
+
+
+Simulation Demonstration
+Now, I’d like to walk you through a simulation that demonstrates how these Digital Twins assist network planners and operators in practice.
+For this study, I selected a region in Philadelphia down town, USA where I built a foliage-based Digital Twin model. Using developed model digital twin with foliage, buildings, municipality poles, the simulation identified 20 potential node placements (highlighted) to ensure adequate coverage for the region.
+For demonstration purposes, I will focus on a subset of about 5–6 node placement locations to showcase how the Digital Twin aids in the planning process.
+
+User Traffic and Connectivity
+In the simulation, user traffic is mapped onto the streets within the selected region. Here’s what happens:
+	• As the user moves along the path, the device connects to the nearest node.
+	• When the user moves away from one node and gets closer to another, the connection seamlessly hops from one node to the next.
+	• This transition can be visualized in real time by observing the change in the radio tower ID associated with the user’s device.
+
+Planning Insights
+This visual demonstration clearly shows how Digital Twins help network planners:
+	• Visualize area-wide coverage in advance.
+	• Identify coverage gaps or overlaps.
+	• Experiment with adding or removing nodes to optimize coverage and cost.
+	• Strategically combine legacy infrastructure with newer technologies like mmWave, 5G, and 6G for maximum efficiency.
+
+Closing
+Overall, this simulation highlights the practical value of Digital Twins in bridging the gap between theoretical planning and real-world deployment. By leveraging these models, operators can make data-driven decisions that ensure better user connectivity, improved service quality, and cost-effective deployments.
+
+A simulation that demonstrates how Digital Twins assist network planners and operators in practice.
+https://www.youtube.com/watch?v=fyQaPefL-Hc
+<img width="1340" height="1451" alt="image" src="https://github.com/user-attachments/assets/3e84573a-70b4-4c9a-a237-4aa2ac826a37" />
