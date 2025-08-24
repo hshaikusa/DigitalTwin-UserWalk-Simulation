@@ -23,12 +23,6 @@ These Digital Twins serve as powerful tools for wireless network planners and op
 	• Determine the number of nodes required to ensure strong connectivity and high user data rates.
 	• Estimate deployment costs more accurately and balance cost vs. performance before actual rollouts.
 
-Here is the link if you have missed it:
-Digital Twin Representation of Foliage (DTRF)
-https://youtu.be/H5VazsiDZNQ
-<img width="1342" height="646" alt="image" src="https://github.com/user-attachments/assets/489d03f9-865c-4c0f-b6b0-905735046cea" />
-
-
 ## Simulation Demonstration
 Now, I’d like to walk you through a simulation that demonstrates how these Digital Twins assist network planners and operators in practice.
 For this study, I selected a region in Philadelphia down town, USA where I built a foliage-based Digital Twin model. Using developed model digital twin with foliage, buildings, municipality poles, the simulation identified 20 potential node placements (highlighted) to ensure adequate coverage for the region.
@@ -50,6 +44,3 @@ This visual demonstration clearly shows how Digital Twins help network planners:
 ## Closing
 Overall, this simulation highlights the practical value of Digital Twins in bridging the gap between theoretical planning and real-world deployment. By leveraging these models, operators can make data-driven decisions that ensure better user connectivity, improved service quality, and cost-effective deployments.
 
-A simulation that demonstrates how Digital Twins assist network planners and operators in practice.
-https://www.youtube.com/watch?v=fyQaPefL-Hc
-<img width="1340" height="1451" alt="image" src="https://github.com/user-attachments/assets/3e84573a-70b4-4c9a-a237-4aa2ac826a37" />
