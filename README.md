@@ -26,6 +26,7 @@ These Digital Twins serve as powerful tools for wireless network planners and op
 
 Here is the link if you have missed it:
 Digital Twin Representation of Foliage (DTRF)
+https://youtu.be/H5VazsiDZNQ
 
 
 ## Simulation Demonstration
@@ -50,4 +51,6 @@ This visual demonstration clearly shows how Digital Twins help network planners:
 Overall, this simulation highlights the practical value of Digital Twins in bridging the gap between theoretical planning and real-world deployment. By leveraging these models, operators can make data-driven decisions that ensure better user connectivity, improved service quality, and cost-effective deployments.
 
 A simulation that demonstrates how Digital Twins assist network planners and operators in practice.
+https://www.youtube.com/watch?v=fyQaPefL-Hc
+
 
