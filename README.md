@@ -14,7 +14,8 @@ In my recent work, I’ve been exploring how Digital Twin representations of fol
 ### 🔹 Enhance coverage prediction.
 ### 🔹 Improve planning accuracy.
 ### 🔹 Leverage legacy infrastructure alongside new technologies.
-Digital Twins bridge the gap between theoretical planning and real-world deployment, driving cost-effective, high-performance networks for the future.
+
+## Digital Twins bridge the gap between theoretical planning and real-world deployment, driving cost-effective, high-performance networks for the future.
 
 In my earlier presentations, I discussed the concept of Digital Twin representation of foliage using computer vision and image analysis. The focus has been on how Digital Twins can be built for key environmental elements such as foliage, buildings, and street furniture using aerial and street-view imagery.
 These Digital Twins serve as powerful tools for wireless network planners and operators. By integrating them into ray-tracing analyzers, planners can:
@@ -22,6 +23,10 @@ These Digital Twins serve as powerful tools for wireless network planners and op
 	• Identify optimal node placement locations.
 	• Determine the number of nodes required to ensure strong connectivity and high user data rates.
 	• Estimate deployment costs more accurately and balance cost vs. performance before actual rollouts.
+
+Here is the link if you have missed it:
+Digital Twin Representation of Foliage (DTRF)
+
 
 ## Simulation Demonstration
 Now, I’d like to walk you through a simulation that demonstrates how these Digital Twins assist network planners and operators in practice.
@@ -43,4 +48,6 @@ This visual demonstration clearly shows how Digital Twins help network planners:
 
 ## Closing
 Overall, this simulation highlights the practical value of Digital Twins in bridging the gap between theoretical planning and real-world deployment. By leveraging these models, operators can make data-driven decisions that ensure better user connectivity, improved service quality, and cost-effective deployments.
+
+A simulation that demonstrates how Digital Twins assist network planners and operators in practice.
 
