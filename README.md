@@ -29,25 +29,25 @@ https://youtu.be/H5VazsiDZNQ
 <img width="1342" height="646" alt="image" src="https://github.com/user-attachments/assets/489d03f9-865c-4c0f-b6b0-905735046cea" />
 
 
-Simulation Demonstration
+## Simulation Demonstration
 Now, I’d like to walk you through a simulation that demonstrates how these Digital Twins assist network planners and operators in practice.
 For this study, I selected a region in Philadelphia down town, USA where I built a foliage-based Digital Twin model. Using developed model digital twin with foliage, buildings, municipality poles, the simulation identified 20 potential node placements (highlighted) to ensure adequate coverage for the region.
 For demonstration purposes, I will focus on a subset of about 5–6 node placement locations to showcase how the Digital Twin aids in the planning process.
 
-User Traffic and Connectivity
+## User Traffic and Connectivity
 In the simulation, user traffic is mapped onto the streets within the selected region. Here’s what happens:
 	• As the user moves along the path, the device connects to the nearest node.
 	• When the user moves away from one node and gets closer to another, the connection seamlessly hops from one node to the next.
 	• This transition can be visualized in real time by observing the change in the radio tower ID associated with the user’s device.
 
-Planning Insights
+## Planning Insights
 This visual demonstration clearly shows how Digital Twins help network planners:
 	• Visualize area-wide coverage in advance.
 	• Identify coverage gaps or overlaps.
 	• Experiment with adding or removing nodes to optimize coverage and cost.
 	• Strategically combine legacy infrastructure with newer technologies like mmWave, 5G, and 6G for maximum efficiency.
 
-Closing
+## Closing
 Overall, this simulation highlights the practical value of Digital Twins in bridging the gap between theoretical planning and real-world deployment. By leveraging these models, operators can make data-driven decisions that ensure better user connectivity, improved service quality, and cost-effective deployments.
 
 A simulation that demonstrates how Digital Twins assist network planners and operators in practice.
